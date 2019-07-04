@@ -64,3 +64,6 @@ The first phase of this project focuses on 200 prominent Singapore Chinese perso
 
 ## License 版权许可
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+## Suggested Citation 引用参考
